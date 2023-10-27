@@ -1,0 +1,49 @@
+Request method:	GET
+Request URI:	https://api-ppe.tesco.com/colleagueexperience/v1/my-tesco-api/managers?locationUUID=6a39cd14-357e-474c-bbac-f70b529aa8e8
+Proxy:			<none>
+Request params:	<none>
+Query params:	locationUUID=6a39cd14-357e-474c-bbac-f70b529aa8e8
+Form params:	<none>
+Path params:	<none>
+Headers:		Authorization=Bearer eyJraWQiOiIwNWU0ZjJkOS05MDY4LTQ5MGYtYTBmYy1jMTg4Y2NlODY5ZDciLCJhbGciOiJSUzI1NiJ9.eyJqdGkiOiJvMmlFWWlHX21ZQUZ0REhvb0FxTElpbGNIVU5fR2FoUzg2N20iLCJpc3MiOiJodHRwczovL2FwaS1wcGUudGVzY28uY29tL2lkZW50aXR5L3Y0L2lzc3VlLXRva2VuIiwic3ViIjoiMjdkNDMxMDctYmQ1MS00ZTliLWEwNjMtNmFlNDA0MmFjMDI0IiwiaWF0IjoxNjk0NTk0NDcxLCJuYmYiOjE2OTQ1OTQ0NzEsImV4cCI6MTY5NDU5ODA3MSwic2NvcGUiOiJpbnRlcm5hbCBwdWJsaWMiLCJjb25maWRlbmNlX2xldmVsIjoxMiwiY2xpZW50X2lkIjoiOGVmZmExMDUtMDE4MS00YjYwLTlmZTYtM2ExMDc4MTJmYzlhIiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNpZCI6IjAxSEE2Vjc1V0dINDY5VFEzOENKVDBDNDVDLTc2N2FjYWFjLTczOWEtNDliNC1iMjliLWRjMGNlNjQ1NjY2Ni1UT2VLT0FkbktqdkJHVVhWZG5TT1JWWUlQTkgxOE1weHRkZ2kifQ.I7gB8tjkvZjP9jzLFvXD6LX29m-38Rj7L2uaJsU-wL3hy7dJlVRUckphGFgvFIVnmCJZis8Gbbrx0vJI7KDARUTy7yOP861Mq5fGQYQcUTdnhM26eg4EUNdgCKvcXRSFtECGshY0fYR1AxiArw2CV5ml1t8MYD3FR6Ur79KZ-Gii51EJeMIsl3rpbH-Zlwp1vJKQX-i7zJNm9oHd4xBzy5e-DGqZjEU2etEny28UoTBRnQf8KSav1-f1rOCG_QR1fttH4-6EqzLPx6O8ghYvpbXXdZI-9x7mMtP2Ewiu_IoU3qCtopFUbc8Oa7QtQfjdYElS_FT3RXxNbwnOf_JPjw
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 404 
+Date: Wed, 13 Sep 2023 08:41:13 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+Strict-Transport-Security: max-age=15724800; includeSubDomains
+X-Frame-Options: DENY
+
+{
+    "code": 404,
+    "type": "NotFound",
+    "message": "Location with id '6a39cd14-357e-474c-bbac-f70b529aa8e8' does not exist"
+}
+token": "eyJraWQiOiIwNWU0ZjJkOS05MDY4LTQ5MGYtYTBmYy1jMTg4Y2NlODY5ZDciLCJhbGciOiJSUzI1NiJ9.eyJqdGkiOiJvMmlFWWlHX21ZQUZ0REhvb0FxTElpbGNIVU5fR2FoUzg2N20iLCJpc3MiOiJodHRwczovL2FwaS1wcGUudGVzY28uY29tL2lkZW50aXR5L3Y0L2lzc3VlLXRva2VuIiwic3ViIjoiMjdkNDMxMDctYmQ1MS00ZTliLWEwNjMtNmFlNDA0MmFjMDI0IiwiaWF0IjoxNjk0NTk0NDcxLCJuYmYiOjE2OTQ1OTQ0NzEsImV4cCI6MTY5NDU5ODA3MSwic2NvcGUiOiJpbnRlcm5hbCBwdWJsaWMiLCJjb25maWRlbmNlX2xldmVsIjoxMiwiY2xpZW50X2lkIjoiOGVmZmExMDUtMDE4MS00YjYwLTlmZTYtM2ExMDc4MTJmYzlhIiwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNpZCI6IjAxSEE2Vjc1V0dINDY5VFEzOENKVDBDNDVDLTc2N2FjYWFjLTczOWEtNDliNC1iMjliLWRjMGNlNjQ1NjY2Ni1UT2VLT0FkbktqdkJHVVhWZG5TT1JWWUlQTkgxOE1weHRkZ2kifQ.I7gB8tjkvZjP9jzLFvXD6LX29m-38Rj7L2uaJsU-wL3hy7dJlVRUckphGFgvFIVnmCJZis8Gbbrx0vJI7KDARUTy7yOP861Mq5fGQYQcUTdnhM26eg4EUNdgCKvcXRSFtECGshY0fYR1AxiArw2CV5ml1t8MYD3FR6Ur79KZ-Gii51EJeMIsl3rpbH-Zlwp1vJKQX-i7zJNm9oHd4xBzy5e-DGqZjEU2etEny28UoTBRnQf8KSav1-f1rOCG_QR1fttH4-6EqzLPx6O8ghYvpbXXdZI-9x7mMtP2Ewiu_IoU3qCtopFUbc8Oa7QtQfjdYElS_FT3RXxNbwnOf_JPjw",
+    "token_type": "bearer",
+    "expires_in": 3599,
+    "scope": "internal public",
+    "confidence_level": 12,
+    "claims": {
+        "jti": "o2iEYiG_mYAFtDHooAqLIilcHUN_GahS867m",
+        "iss": "https://api-ppe.tesco.com/identity/v4/issue-token",
+        "sub": "27d43107-bd51-4e9b-a063-6ae4042ac024",
+        "iat": 1694594471,
+        "nbf": 1694594471,
+        "exp": 1694598071,
+        "scope": "internal public",
+        "confidence_level": 12,
+        "client_id": "8effa105-0181-4b60-9fe6-3a107812fc9a",
+        "token_type": "bearer",
+        "sid": "01HA6V75WGH469TQ38CJT0C45C-767acaac-739a-49b4-b29b-dc0ce6456666-TOeKOAdnKjvBGUXVdnSORVYIPNH18Mpxtdgi"
+    }
+}
